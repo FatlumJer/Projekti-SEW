@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\Fatlum\source\repos\test\test\test.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Fatlum\source\repos\test\test\test.cpp(23,21): warning C4101: 'stmt': unreferenced local variable
+  test.vcxproj -> C:\Users\Fatlum\source\repos\test\x64\Debug\test.exe
